@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **python and php and nodejs**
+- 🌱 I’m currently learning **python and linux and bash scripting**
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **adejoriisrael@gmail.com**
 
-- ⚡ Fun fact **I am Quite**
+- ⚡ Fun fact **SMILE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
