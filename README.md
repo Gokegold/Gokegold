@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Israel Adejori Adegoke</h1>
+<h1 align="center">Hi 👋, I'm Israel Adegoke</h1>
 <h3 align="center">A Developer</h3>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gokegold&label=Profile%20views&color=0e75b6&style=flat" alt="Gokegold" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **python and linux and bash scripting**
+- 🌱 I’m currently learning **python and python scripting linux and bash scripting**
 
 - 💬 Ask me about **python**
 
